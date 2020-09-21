@@ -2,6 +2,7 @@ module Provenance
 
 using Dates
 using UUIDs
+using Pkg
 
 using DocStringExtensions
 
